@@ -1,0 +1,4 @@
+C:\Users\Andie\Documents\csharp\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.AssemblyInfo.cs
